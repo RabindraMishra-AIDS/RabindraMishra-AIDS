@@ -21,6 +21,9 @@
 <a href="https://leetcode.com/u/Rabindra_Mishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rabindra mishra" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sambhu3foqm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sambhu3foqm" height="30" width="40" /></a>
 </p>
+
+<h1 align="center">GitHub Contributions Graph</h1>
+
 [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RabindraMishra-AIDS&theme=github-dark)](https://github.com/RabindraMishra-AIDS)
 
 
