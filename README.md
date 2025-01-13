@@ -34,5 +34,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabindramishra-aids&show_icons=true&locale=en" alt="rabindramishra-aids" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabindramishra-aids&" alt="rabindramishra-aids" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabindramishra-aids&" alt="Streak Stats" /></p>
 
